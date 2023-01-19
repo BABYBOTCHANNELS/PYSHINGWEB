@@ -1,0 +1,3696 @@
+IP                   : 180.252.85.69
+IP Type              : IPv4
+User OS              : Android
+Version              : 12;
+Browser              : Handheld Browser
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+
+IP                   : 180.243.14.53
+IP Type              : IPv4
+User OS              : Android
+Version              : 11;
+Browser              : Handheld Browser
+Location             : Central Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.1864864, 106.8340911
+Currency             : Indonesian Rupiah
+
+IP                   : 180.243.14.53
+IP Type              : IPv4
+User OS              : Android
+Version              : 11;
+Browser              : Handheld Browser
+Location             : Central Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.1864864, 106.8340911
+Currency             : Indonesian Rupiah
+
+IP                   : 180.243.14.53
+IP Type              : IPv4
+User OS              : Android
+Version              : 11;
+Browser              : Handheld Browser
+Location             : Central Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.1864864, 106.8340911
+Currency             : Indonesian Rupiah
+
+IP                   : 180.243.14.53
+IP Type              : IPv4
+User OS              : Android
+Version              : 11;
+Browser              : Handheld Browser
+Location             : Central Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.1864864, 106.8340911
+Currency             : Indonesian Rupiah
+
+IP                   : 180.243.14.53
+IP Type              : IPv4
+User OS              : Android
+Version              : 11;
+Browser              : Handheld Browser
+Location             : Central Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.1864864, 106.8340911
+Currency             : Indonesian Rupiah
+
+IP                   : 114.10.26.5
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : 
+Browser              : Unknown Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 180.243.14.53
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : 
+Browser              : Unknown Browser
+Location             : Central Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.1864864, 106.8340911
+Currency             : Indonesian Rupiah
+
+IP                   : 125.160.107.118
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : 
+Browser              : Unknown Browser
+Location             : Yogyakarta, Indonesia, Asia
+GeoLocation(lat, lon): -7.7955798, 110.3694896
+Currency             : Indonesian Rupiah
+
+IP                   : 125.160.107.118
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Safari
+Location             : Yogyakarta, Indonesia, Asia
+GeoLocation(lat, lon): -7.7955798, 110.3694896
+Currency             : Indonesian Rupiah
+
+IP                   : 125.160.107.118
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Safari
+Location             : Yogyakarta, Indonesia, Asia
+GeoLocation(lat, lon): -7.7955798, 110.3694896
+Currency             : Indonesian Rupiah
+
+IP                   : 114.10.26.5
+IP Type              : IPv4
+User OS              : Android
+Version              : Android
+Browser              : Handheld Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 125.160.107.118
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Safari
+Location             : Yogyakarta, Indonesia, Asia
+GeoLocation(lat, lon): -7.7955798, 110.3694896
+Currency             : Indonesian Rupiah
+
+IP                   : 125.160.107.118
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Safari
+Location             : Yogyakarta, Indonesia, Asia
+GeoLocation(lat, lon): -7.7955798, 110.3694896
+Currency             : Indonesian Rupiah
+
+IP                   : 180.243.14.53
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 11; M2007J20CG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36
+Version              : 11;
+Browser              : Handheld Browser
+Location             : Central Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.1864864, 106.8340911
+Currency             : Indonesian Rupiah
+
+IP                   : 180.243.14.53
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+Version              : 
+Browser              : Unknown Browser
+Location             : Central Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.1864864, 106.8340911
+Currency             : Indonesian Rupiah
+IP                   : 58.147.190.26
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+Version              : 
+Browser              : Unknown Browser
+Location             : Cibinong, Indonesia, Asia
+GeoLocation(lat, lon): -6.4901067, 106.8306951
+Currency             : Indonesian Rupiah
+
+IP                   : 125.160.107.118
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+Version              : 
+Browser              : Unknown Browser
+Location             : Yogyakarta, Indonesia, Asia
+GeoLocation(lat, lon): -7.7955798, 110.3694896
+Currency             : Indonesian Rupiah
+IP                   : 180.243.14.53
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : Mozilla
+Version              : 
+Browser              : Unknown Browser
+Location             : Central Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.1864864, 106.8340911
+Currency             : Indonesian Rupiah
+
+IP                   : 58.147.190.26
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : Mozilla
+Version              : 
+Browser              : Unknown Browser
+Location             : Cibinong, Indonesia, Asia
+GeoLocation(lat, lon): -6.4901067, 106.8306951
+Currency             : Indonesian Rupiah
+IP                   : 180.243.14.53
+IP Type              : IPv4
+User OS              : Linux
+User Agent           : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36
+Version              : x86_64
+Browser              : Chrome
+Location             : Central Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.1864864, 106.8340911
+Currency             : Indonesian Rupiah
+
+IP                   : 125.160.107.118
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : Mozilla
+Version              : 
+Browser              : Unknown Browser
+Location             : Yogyakarta, Indonesia, Asia
+GeoLocation(lat, lon): -7.7955798, 110.3694896
+Currency             : Indonesian Rupiah
+
+IP                   : 180.243.14.53
+IP Type              : IPv4
+User OS              : Mac OS X
+User Agent           : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+Version              : Mac
+Browser              : Chrome
+Location             : Central Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.1864864, 106.8340911
+Currency             : Indonesian Rupiah
+
+IP                   : 125.160.107.118
+IP Type              : IPv4
+User OS              : Linux
+User Agent           : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36
+Version              : x86_64
+Browser              : Chrome
+Location             : Yogyakarta, Indonesia, Asia
+GeoLocation(lat, lon): -7.7955798, 110.3694896
+Currency             : Indonesian Rupiah
+IP                   : 58.147.190.26
+IP Type              : IPv4
+User OS              : Mac OS X
+User Agent           : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+Version              : Mac
+Browser              : Chrome
+Location             : Cibinong, Indonesia, Asia
+GeoLocation(lat, lon): -6.4901067, 106.8306951
+Currency             : Indonesian Rupiah
+
+IP                   : 180.243.14.53
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : WhatsApp/2.19.81 A
+Version              : 
+Browser              : Unknown Browser
+Location             : Central Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.1864864, 106.8340911
+Currency             : Indonesian Rupiah
+IP                   : 125.160.107.118
+IP Type              : IPv4
+User OS              : Mac OS X
+User Agent           : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+Version              : Mac
+Browser              : Chrome
+Location             : Yogyakarta, Indonesia, Asia
+GeoLocation(lat, lon): -7.7955798, 110.3694896
+Currency             : Indonesian Rupiah
+
+IP                   : 58.147.190.26
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : WhatsApp/2.19.81 A
+Version              : 
+Browser              : Unknown Browser
+Location             : Cibinong, Indonesia, Asia
+GeoLocation(lat, lon): -6.4901067, 106.8306951
+Currency             : Indonesian Rupiah
+IP                   : 180.243.14.53
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookexternalhit/1.1
+Version              : 
+Browser              : Unknown Browser
+Location             : Central Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.1864864, 106.8340911
+Currency             : Indonesian Rupiah
+
+IP                   : 125.160.107.118
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : WhatsApp/2.19.81 A
+Version              : 
+Browser              : Unknown Browser
+Location             : Yogyakarta, Indonesia, Asia
+GeoLocation(lat, lon): -7.7955798, 110.3694896
+Currency             : Indonesian Rupiah
+IP                   : 114.10.26.5
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+Version              : 
+Browser              : Unknown Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 58.147.190.26
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookexternalhit/1.1
+Version              : 
+Browser              : Unknown Browser
+Location             : Cibinong, Indonesia, Asia
+GeoLocation(lat, lon): -6.4901067, 106.8306951
+Currency             : Indonesian Rupiah
+IP                   : 180.243.14.53
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookcatalog/1.0
+Version              : 
+Browser              : Unknown Browser
+Location             : Central Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.1864864, 106.8340911
+Currency             : Indonesian Rupiah
+
+IP                   : 125.160.107.118
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookexternalhit/1.1
+Version              : 
+Browser              : Unknown Browser
+Location             : Yogyakarta, Indonesia, Asia
+GeoLocation(lat, lon): -7.7955798, 110.3694896
+Currency             : Indonesian Rupiah
+IP                   : 114.10.26.5
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : Mozilla
+Version              : 
+Browser              : Unknown Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 58.147.190.26
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookcatalog/1.0
+Version              : 
+Browser              : Unknown Browser
+Location             : Cibinong, Indonesia, Asia
+GeoLocation(lat, lon): -6.4901067, 106.8306951
+Currency             : Indonesian Rupiah
+
+IP                   : 125.160.107.118
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookcatalog/1.0
+Version              : 
+Browser              : Unknown Browser
+Location             : Yogyakarta, Indonesia, Asia
+GeoLocation(lat, lon): -7.7955798, 110.3694896
+Currency             : Indonesian Rupiah
+IP                   : 114.10.26.5
+IP Type              : IPv4
+User OS              : Linux
+User Agent           : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36
+Version              : x86_64
+Browser              : Chrome
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 114.10.26.5
+IP Type              : IPv4
+User OS              : Mac OS X
+User Agent           : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+Version              : Mac
+Browser              : Chrome
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 114.10.26.5
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookexternalhit/1.1
+Version              : 
+Browser              : Unknown Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 114.10.26.5
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookcatalog/1.0
+Version              : 
+Browser              : Unknown Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 58.147.190.26
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 9; Mi A2 Lite) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36
+Version              : 9;
+Browser              : Handheld Browser
+Location             : Cibinong, Indonesia, Asia
+GeoLocation(lat, lon): -6.4901067, 106.8306951
+Currency             : Indonesian Rupiah
+
+IP                   : 180.252.163.134
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+Version              : 
+Browser              : Unknown Browser
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+
+IP                   : 180.252.163.134
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : Mozilla
+Version              : 
+Browser              : Unknown Browser
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+
+IP                   : 180.252.163.134
+IP Type              : IPv4
+User OS              : Linux
+User Agent           : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36
+Version              : x86_64
+Browser              : Chrome
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+
+IP                   : 180.252.163.134
+IP Type              : IPv4
+User OS              : Mac OS X
+User Agent           : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+Version              : Mac
+Browser              : Chrome
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+IP                   : 180.252.163.134
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : WhatsApp/2.19.81 A
+Version              : 
+Browser              : Unknown Browser
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+
+IP                   : 180.252.163.134
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookexternalhit/1.1
+Version              : 
+Browser              : Unknown Browser
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+
+IP                   : 180.252.163.134
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookcatalog/1.0
+Version              : 
+Browser              : Unknown Browser
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+
+IP                   : 114.10.26.5
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+Version              : 
+Browser              : Unknown Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 180.243.14.53
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+Version              : 
+Browser              : Unknown Browser
+Location             : Central Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.1864864, 106.8340911
+Currency             : Indonesian Rupiah
+IP                   : 125.160.107.118
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+Version              : 
+Browser              : Unknown Browser
+Location             : Yogyakarta, Indonesia, Asia
+GeoLocation(lat, lon): -7.7955798, 110.3694896
+Currency             : Indonesian Rupiah
+
+IP                   : 114.10.26.5
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : Mozilla
+Version              : 
+Browser              : Unknown Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+IP                   : 180.243.14.53
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : Mozilla
+Version              : 
+Browser              : Unknown Browser
+Location             : Central Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.1864864, 106.8340911
+Currency             : Indonesian Rupiah
+
+IP                   : 125.160.107.118
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : Mozilla
+Version              : 
+Browser              : Unknown Browser
+Location             : Yogyakarta, Indonesia, Asia
+GeoLocation(lat, lon): -7.7955798, 110.3694896
+Currency             : Indonesian Rupiah
+IP                   : 114.10.26.5
+IP Type              : IPv4
+User OS              : Linux
+User Agent           : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36
+Version              : x86_64
+Browser              : Chrome
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 180.243.14.53
+IP Type              : IPv4
+User OS              : Linux
+User Agent           : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36
+Version              : x86_64
+Browser              : Chrome
+Location             : Central Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.1864864, 106.8340911
+Currency             : Indonesian Rupiah
+IP                   : 125.160.107.118
+IP Type              : IPv4
+User OS              : Linux
+User Agent           : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36
+Version              : x86_64
+Browser              : Chrome
+Location             : Yogyakarta, Indonesia, Asia
+GeoLocation(lat, lon): -7.7955798, 110.3694896
+Currency             : Indonesian Rupiah
+
+IP                   : 114.10.26.5
+IP Type              : IPv4
+User OS              : Mac OS X
+User Agent           : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+Version              : Mac
+Browser              : Chrome
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+IP                   : 180.243.14.53
+IP Type              : IPv4
+User OS              : Mac OS X
+User Agent           : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+Version              : Mac
+Browser              : Chrome
+Location             : Central Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.1864864, 106.8340911
+Currency             : Indonesian Rupiah
+
+IP                   : 125.160.107.118
+IP Type              : IPv4
+User OS              : Mac OS X
+User Agent           : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+Version              : Mac
+Browser              : Chrome
+Location             : Yogyakarta, Indonesia, Asia
+GeoLocation(lat, lon): -7.7955798, 110.3694896
+Currency             : Indonesian Rupiah
+IP                   : 114.10.26.5
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : WhatsApp/2.19.81 A
+Version              : 
+Browser              : Unknown Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 180.243.14.53
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : WhatsApp/2.19.81 A
+Version              : 
+Browser              : Unknown Browser
+Location             : Central Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.1864864, 106.8340911
+Currency             : Indonesian Rupiah
+IP                   : 125.160.107.118
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : WhatsApp/2.19.81 A
+Version              : 
+Browser              : Unknown Browser
+Location             : Yogyakarta, Indonesia, Asia
+GeoLocation(lat, lon): -7.7955798, 110.3694896
+Currency             : Indonesian Rupiah
+
+IP                   : 114.10.26.5
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookexternalhit/1.1
+Version              : 
+Browser              : Unknown Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+IP                   : 180.243.14.53
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookexternalhit/1.1
+Version              : 
+Browser              : Unknown Browser
+Location             : Central Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.1864864, 106.8340911
+Currency             : Indonesian Rupiah
+
+IP                   : 125.160.107.118
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookexternalhit/1.1
+Version              : 
+Browser              : Unknown Browser
+Location             : Yogyakarta, Indonesia, Asia
+GeoLocation(lat, lon): -7.7955798, 110.3694896
+Currency             : Indonesian Rupiah
+IP                   : 114.10.26.5
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookcatalog/1.0
+Version              : 
+Browser              : Unknown Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 180.243.14.53
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookcatalog/1.0
+Version              : 
+Browser              : Unknown Browser
+Location             : Central Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.1864864, 106.8340911
+Currency             : Indonesian Rupiah
+
+IP                   : 125.160.107.118
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookcatalog/1.0
+Version              : 
+Browser              : Unknown Browser
+Location             : Yogyakarta, Indonesia, Asia
+GeoLocation(lat, lon): -7.7955798, 110.3694896
+Currency             : Indonesian Rupiah
+
+IP                   : 180.243.14.53
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+Version              : 
+Browser              : Unknown Browser
+Location             : Central Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.1864864, 106.8340911
+Currency             : Indonesian Rupiah
+
+IP                   : 125.160.107.118
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+Version              : 
+Browser              : Unknown Browser
+Location             : Yogyakarta, Indonesia, Asia
+GeoLocation(lat, lon): -7.7955798, 110.3694896
+Currency             : Indonesian Rupiah
+IP                   : 114.10.26.5
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+Version              : 
+Browser              : Unknown Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 180.243.14.53
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : Mozilla
+Version              : 
+Browser              : Unknown Browser
+Location             : Central Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.1864864, 106.8340911
+Currency             : Indonesian Rupiah
+IP                   : 125.160.107.118
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : Mozilla
+Version              : 
+Browser              : Unknown Browser
+Location             : Yogyakarta, Indonesia, Asia
+GeoLocation(lat, lon): -7.7955798, 110.3694896
+Currency             : Indonesian Rupiah
+
+IP                   : 114.10.26.5
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : Mozilla
+Version              : 
+Browser              : Unknown Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+IP                   : 180.243.14.53
+IP Type              : IPv4
+User OS              : Linux
+User Agent           : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36
+Version              : x86_64
+Browser              : Chrome
+Location             : Central Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.1864864, 106.8340911
+Currency             : Indonesian Rupiah
+
+IP                   : 125.160.107.118
+IP Type              : IPv4
+User OS              : Linux
+User Agent           : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36
+Version              : x86_64
+Browser              : Chrome
+Location             : Yogyakarta, Indonesia, Asia
+GeoLocation(lat, lon): -7.7955798, 110.3694896
+Currency             : Indonesian Rupiah
+IP                   : 114.10.26.5
+IP Type              : IPv4
+User OS              : Linux
+User Agent           : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36
+Version              : x86_64
+Browser              : Chrome
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 180.243.14.53
+IP Type              : IPv4
+User OS              : Mac OS X
+User Agent           : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+Version              : Mac
+Browser              : Chrome
+Location             : Central Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.1864864, 106.8340911
+Currency             : Indonesian Rupiah
+IP                   : 180.243.14.53
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+Version              : 
+Browser              : Unknown Browser
+Location             : Central Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.1864864, 106.8340911
+Currency             : Indonesian Rupiah
+
+IP                   : 114.10.26.5
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+Version              : 
+Browser              : Unknown Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+IP                   : 180.243.14.53
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+Version              : 
+Browser              : Unknown Browser
+Location             : Central Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.1864864, 106.8340911
+Currency             : Indonesian Rupiah
+
+IP                   : 114.10.26.5
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+Version              : 
+Browser              : Unknown Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+IP                   : 114.10.26.5
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+Version              : 
+Browser              : Unknown Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 114.10.26.5
+IP Type              : IPv4
+User OS              : Mac OS X
+User Agent           : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+Version              : Mac
+Browser              : Chrome
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 180.243.14.53
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+Version              : 
+Browser              : Unknown Browser
+Location             : Central Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.1864864, 106.8340911
+Currency             : Indonesian Rupiah
+IP                   : 180.243.14.53
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+Version              : 
+Browser              : Unknown Browser
+Location             : Central Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.1864864, 106.8340911
+Currency             : Indonesian Rupiah
+
+IP                   : 180.243.14.53
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+Version              : 
+Browser              : Unknown Browser
+Location             : Central Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.1864864, 106.8340911
+Currency             : Indonesian Rupiah
+IP                   : 114.10.26.5
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+Version              : 
+Browser              : Unknown Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 125.160.107.118
+IP Type              : IPv4
+User OS              : Mac OS X
+User Agent           : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+Version              : Mac
+Browser              : Chrome
+Location             : Yogyakarta, Indonesia, Asia
+GeoLocation(lat, lon): -7.7955798, 110.3694896
+Currency             : Indonesian Rupiah
+IP                   : 180.243.14.53
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : WhatsApp/2.19.81 A
+Version              : 
+Browser              : Unknown Browser
+Location             : Central Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.1864864, 106.8340911
+Currency             : Indonesian Rupiah
+
+IP                   : 180.243.14.53
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : Mozilla
+Version              : 
+Browser              : Unknown Browser
+Location             : Central Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.1864864, 106.8340911
+Currency             : Indonesian Rupiah
+IP                   : 114.10.26.5
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : Mozilla
+Version              : 
+Browser              : Unknown Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 180.243.14.53
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : Mozilla
+Version              : 
+Browser              : Unknown Browser
+Location             : Central Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.1864864, 106.8340911
+Currency             : Indonesian Rupiah
+IP                   : 114.10.26.5
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : Mozilla
+Version              : 
+Browser              : Unknown Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 114.10.26.5
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : Mozilla
+Version              : 
+Browser              : Unknown Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 114.10.26.5
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : WhatsApp/2.19.81 A
+Version              : 
+Browser              : Unknown Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+IP                   : 180.243.14.53
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : Mozilla
+Version              : 
+Browser              : Unknown Browser
+Location             : Central Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.1864864, 106.8340911
+Currency             : Indonesian Rupiah
+
+IP                   : 125.160.107.118
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+Version              : 
+Browser              : Unknown Browser
+Location             : Yogyakarta, Indonesia, Asia
+GeoLocation(lat, lon): -7.7955798, 110.3694896
+Currency             : Indonesian Rupiah
+IP                   : 180.243.14.53
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : Mozilla
+Version              : 
+Browser              : Unknown Browser
+Location             : Central Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.1864864, 106.8340911
+Currency             : Indonesian Rupiah
+
+IP                   : 180.243.14.53
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : Mozilla
+Version              : 
+Browser              : Unknown Browser
+Location             : Central Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.1864864, 106.8340911
+Currency             : Indonesian Rupiah
+IP                   : 114.10.26.5
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : Mozilla
+Version              : 
+Browser              : Unknown Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 125.160.107.118
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : WhatsApp/2.19.81 A
+Version              : 
+Browser              : Unknown Browser
+Location             : Yogyakarta, Indonesia, Asia
+GeoLocation(lat, lon): -7.7955798, 110.3694896
+Currency             : Indonesian Rupiah
+IP                   : 180.243.14.53
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookexternalhit/1.1
+Version              : 
+Browser              : Unknown Browser
+Location             : Central Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.1864864, 106.8340911
+Currency             : Indonesian Rupiah
+
+IP                   : 180.243.14.53
+IP Type              : IPv4
+User OS              : Linux
+User Agent           : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36
+Version              : x86_64
+Browser              : Chrome
+Location             : Central Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.1864864, 106.8340911
+Currency             : Indonesian Rupiah
+IP                   : 114.10.26.5
+IP Type              : IPv4
+User OS              : Linux
+User Agent           : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36
+Version              : x86_64
+Browser              : Chrome
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 180.243.14.53
+IP Type              : IPv4
+User OS              : Linux
+User Agent           : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36
+Version              : x86_64
+Browser              : Chrome
+Location             : Central Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.1864864, 106.8340911
+Currency             : Indonesian Rupiah
+IP                   : 114.10.26.5
+IP Type              : IPv4
+User OS              : Linux
+User Agent           : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36
+Version              : x86_64
+Browser              : Chrome
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 114.10.26.5
+IP Type              : IPv4
+User OS              : Linux
+User Agent           : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36
+Version              : x86_64
+Browser              : Chrome
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 114.10.26.5
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookexternalhit/1.1
+Version              : 
+Browser              : Unknown Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+IP                   : 180.243.14.53
+IP Type              : IPv4
+User OS              : Linux
+User Agent           : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36
+Version              : x86_64
+Browser              : Chrome
+Location             : Central Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.1864864, 106.8340911
+Currency             : Indonesian Rupiah
+
+IP                   : 125.160.107.118
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : Mozilla
+Version              : 
+Browser              : Unknown Browser
+Location             : Yogyakarta, Indonesia, Asia
+GeoLocation(lat, lon): -7.7955798, 110.3694896
+Currency             : Indonesian Rupiah
+IP                   : 125.160.107.118
+IP Type              : IPv4
+User OS              : Linux
+User Agent           : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Safari/537.36 HeyTapBrowser/15.9.1.1
+Version              : x86_64
+Browser              : Safari
+Location             : Yogyakarta, Indonesia, Asia
+GeoLocation(lat, lon): -7.7955798, 110.3694896
+Currency             : Indonesian Rupiah
+
+IP                   : 180.243.14.53
+IP Type              : IPv4
+User OS              : Linux
+User Agent           : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36
+Version              : x86_64
+Browser              : Chrome
+Location             : Central Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.1864864, 106.8340911
+Currency             : Indonesian Rupiah
+
+IP                   : 114.10.26.5
+IP Type              : IPv4
+User OS              : Linux
+User Agent           : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36
+Version              : x86_64
+Browser              : Chrome
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 125.160.107.118
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookexternalhit/1.1
+Version              : 
+Browser              : Unknown Browser
+Location             : Yogyakarta, Indonesia, Asia
+GeoLocation(lat, lon): -7.7955798, 110.3694896
+Currency             : Indonesian Rupiah
+IP                   : 180.243.14.53
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookcatalog/1.0
+Version              : 
+Browser              : Unknown Browser
+Location             : Central Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.1864864, 106.8340911
+Currency             : Indonesian Rupiah
+
+IP                   : 180.243.14.53
+IP Type              : IPv4
+User OS              : Mac OS X
+User Agent           : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+Version              : Mac
+Browser              : Chrome
+Location             : Central Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.1864864, 106.8340911
+Currency             : Indonesian Rupiah
+
+IP                   : 114.10.26.5
+IP Type              : IPv4
+User OS              : Mac OS X
+User Agent           : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+Version              : Mac
+Browser              : Chrome
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+IP                   : 180.243.14.53
+IP Type              : IPv4
+User OS              : Mac OS X
+User Agent           : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+Version              : Mac
+Browser              : Chrome
+Location             : Central Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.1864864, 106.8340911
+Currency             : Indonesian Rupiah
+
+IP                   : 114.10.26.5
+IP Type              : IPv4
+User OS              : Mac OS X
+User Agent           : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+Version              : Mac
+Browser              : Chrome
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 114.10.26.5
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookcatalog/1.0
+Version              : 
+Browser              : Unknown Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 125.160.107.118
+IP Type              : IPv4
+User OS              : Linux
+User Agent           : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36
+Version              : x86_64
+Browser              : Chrome
+Location             : Yogyakarta, Indonesia, Asia
+GeoLocation(lat, lon): -7.7955798, 110.3694896
+Currency             : Indonesian Rupiah
+
+IP                   : 180.243.14.53
+IP Type              : IPv4
+User OS              : Mac OS X
+User Agent           : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+Version              : Mac
+Browser              : Chrome
+Location             : Central Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.1864864, 106.8340911
+Currency             : Indonesian Rupiah
+IP                   : 180.243.14.53
+IP Type              : IPv4
+User OS              : Mac OS X
+User Agent           : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+Version              : Mac
+Browser              : Chrome
+Location             : Central Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.1864864, 106.8340911
+Currency             : Indonesian Rupiah
+
+IP                   : 114.10.26.5
+IP Type              : IPv4
+User OS              : Mac OS X
+User Agent           : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+Version              : Mac
+Browser              : Chrome
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+IP                   : 125.160.107.118
+IP Type              : IPv4
+User OS              : Linux
+User Agent           : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Safari/537.36 HeyTapBrowser/15.9.1.1
+Version              : x86_64
+Browser              : Safari
+Location             : Yogyakarta, Indonesia, Asia
+GeoLocation(lat, lon): -7.7955798, 110.3694896
+Currency             : Indonesian Rupiah
+
+IP                   : 125.160.107.118
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookcatalog/1.0
+Version              : 
+Browser              : Unknown Browser
+Location             : Yogyakarta, Indonesia, Asia
+GeoLocation(lat, lon): -7.7955798, 110.3694896
+Currency             : Indonesian Rupiah
+IP                   : 180.243.14.53
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : WhatsApp/2.19.81 A
+Version              : 
+Browser              : Unknown Browser
+Location             : Central Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.1864864, 106.8340911
+Currency             : Indonesian Rupiah
+
+IP                   : 114.10.26.5
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : WhatsApp/2.19.81 A
+Version              : 
+Browser              : Unknown Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+IP                   : 180.243.14.53
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : WhatsApp/2.19.81 A
+Version              : 
+Browser              : Unknown Browser
+Location             : Central Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.1864864, 106.8340911
+Currency             : Indonesian Rupiah
+
+IP                   : 114.10.26.5
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : WhatsApp/2.19.81 A
+Version              : 
+Browser              : Unknown Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+IP                   : 114.10.26.5
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : WhatsApp/2.19.81 A
+Version              : 
+Browser              : Unknown Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 180.243.14.53
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : WhatsApp/2.19.81 A
+Version              : 
+Browser              : Unknown Browser
+Location             : Central Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.1864864, 106.8340911
+Currency             : Indonesian Rupiah
+
+IP                   : 180.243.14.53
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : WhatsApp/2.19.81 A
+Version              : 
+Browser              : Unknown Browser
+Location             : Central Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.1864864, 106.8340911
+Currency             : Indonesian Rupiah
+
+IP                   : 180.243.14.53
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : WhatsApp/2.19.81 A
+Version              : 
+Browser              : Unknown Browser
+Location             : Central Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.1864864, 106.8340911
+Currency             : Indonesian Rupiah
+IP                   : 114.10.26.5
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : WhatsApp/2.19.81 A
+Version              : 
+Browser              : Unknown Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 180.243.14.53
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookexternalhit/1.1
+Version              : 
+Browser              : Unknown Browser
+Location             : Central Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.1864864, 106.8340911
+Currency             : Indonesian Rupiah
+IP                   : 114.10.26.5
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookexternalhit/1.1
+Version              : 
+Browser              : Unknown Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 180.243.14.53
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookexternalhit/1.1
+Version              : 
+Browser              : Unknown Browser
+Location             : Central Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.1864864, 106.8340911
+Currency             : Indonesian Rupiah
+IP                   : 114.10.26.5
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookexternalhit/1.1
+Version              : 
+Browser              : Unknown Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 114.10.26.5
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookexternalhit/1.1
+Version              : 
+Browser              : Unknown Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 180.243.14.53
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookexternalhit/1.1
+Version              : 
+Browser              : Unknown Browser
+Location             : Central Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.1864864, 106.8340911
+Currency             : Indonesian Rupiah
+IP                   : 125.160.107.118
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : WhatsApp/2.19.81 A
+Version              : 
+Browser              : Unknown Browser
+Location             : Yogyakarta, Indonesia, Asia
+GeoLocation(lat, lon): -7.7955798, 110.3694896
+Currency             : Indonesian Rupiah
+
+IP                   : 180.243.14.53
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookexternalhit/1.1
+Version              : 
+Browser              : Unknown Browser
+Location             : Central Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.1864864, 106.8340911
+Currency             : Indonesian Rupiah
+IP                   : 180.243.14.53
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookexternalhit/1.1
+Version              : 
+Browser              : Unknown Browser
+Location             : Central Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.1864864, 106.8340911
+Currency             : Indonesian Rupiah
+
+IP                   : 114.10.26.5
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookexternalhit/1.1
+Version              : 
+Browser              : Unknown Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+IP                   : 180.243.14.53
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookcatalog/1.0
+Version              : 
+Browser              : Unknown Browser
+Location             : Central Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.1864864, 106.8340911
+Currency             : Indonesian Rupiah
+
+IP                   : 114.10.26.5
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookcatalog/1.0
+Version              : 
+Browser              : Unknown Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+IP                   : 180.243.14.53
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookcatalog/1.0
+Version              : 
+Browser              : Unknown Browser
+Location             : Central Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.1864864, 106.8340911
+Currency             : Indonesian Rupiah
+
+IP                   : 114.10.26.5
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookcatalog/1.0
+Version              : 
+Browser              : Unknown Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+IP                   : 114.10.26.5
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookcatalog/1.0
+Version              : 
+Browser              : Unknown Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 180.243.14.53
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookcatalog/1.0
+Version              : 
+Browser              : Unknown Browser
+Location             : Central Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.1864864, 106.8340911
+Currency             : Indonesian Rupiah
+
+IP                   : 180.243.14.53
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookcatalog/1.0
+Version              : 
+Browser              : Unknown Browser
+Location             : Central Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.1864864, 106.8340911
+Currency             : Indonesian Rupiah
+
+IP                   : 180.243.14.53
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookcatalog/1.0
+Version              : 
+Browser              : Unknown Browser
+Location             : Central Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.1864864, 106.8340911
+Currency             : Indonesian Rupiah
+IP                   : 114.10.26.5
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookcatalog/1.0
+Version              : 
+Browser              : Unknown Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 125.160.107.118
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookcatalog/1.0
+Version              : 
+Browser              : Unknown Browser
+Location             : Yogyakarta, Indonesia, Asia
+GeoLocation(lat, lon): -7.7955798, 110.3694896
+Currency             : Indonesian Rupiah
+
+IP                   : 13.125.154.164
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : 
+Browser              : Unknown Browser
+Location             : Seoul, Republic of Korea, Asia
+GeoLocation(lat, lon): 37.566535, 126.9779692
+Currency             : South Korean Won
+
+IP                   : 180.243.14.53
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : 
+Browser              : Unknown Browser
+Location             : Central Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.1864864, 106.8340911
+Currency             : Indonesian Rupiah
+IP                   : 103.106.219.127
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : 
+Browser              : Unknown Browser
+Location             : Sengon, Indonesia, Asia
+GeoLocation(lat, lon): -7.5532583, 112.2249891
+Currency             : Indonesian Rupiah
+
+IP                   : 180.243.2.107
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : 
+Browser              : Unknown Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 103.106.219.127
+IP Type              : IPv4
+User OS              : Android
+Version              : 11;
+Browser              : Handheld Browser
+Location             : Sengon, Indonesia, Asia
+GeoLocation(lat, lon): -7.5532583, 112.2249891
+Currency             : Indonesian Rupiah
+
+IP                   : 180.243.14.53
+IP Type              : IPv4
+User OS              : Android
+Version              : 11;
+Browser              : Handheld Browser
+Location             : Central Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.1864864, 106.8340911
+Currency             : Indonesian Rupiah
+
+IP                   : 180.243.13.176
+IP Type              : IPv4
+User OS              : Android
+Version              : 11;
+Browser              : Handheld Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 180.243.13.176
+IP Type              : IPv4
+User OS              : Android
+Version              : 5.1;
+Browser              : Handheld Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 180.243.13.176
+IP Type              : IPv4
+User OS              : Android
+Version              : 5.1;
+Browser              : Handheld Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 180.243.13.176
+IP Type              : IPv4
+User OS              : Android
+Version              : 5.1;
+Browser              : Handheld Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 180.243.13.176
+IP Type              : IPv4
+User OS              : Android
+Version              : 5.1;
+Browser              : Handheld Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 180.243.13.176
+IP Type              : IPv4
+User OS              : Android
+Version              : 11;
+Browser              : Handheld Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 13.209.235.54
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : 
+Browser              : Unknown Browser
+Location             : Seoul, Republic of Korea, Asia
+GeoLocation(lat, lon): 37.566535, 126.9779692
+Currency             : South Korean Won
+
+IP                   : 180.252.85.69
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : 
+Browser              : Unknown Browser
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+IP                   : 180.243.13.176
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : 
+Browser              : Unknown Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 182.3.68.209
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : 
+Browser              : Unknown Browser
+Location             : Palembang, Indonesia, Asia
+GeoLocation(lat, lon): -2.9760735, 104.7754307
+Currency             : Indonesian Rupiah
+IP                   : 36.74.40.42
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : 
+Browser              : Unknown Browser
+Location             : Kota Garut, Indonesia, Asia
+GeoLocation(lat, lon): -7.227906, 107.908699
+Currency             : Indonesian Rupiah
+
+IP                   : 180.243.13.176
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : 
+Browser              : Unknown Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+IP                   : 180.252.85.69
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : 
+Browser              : Unknown Browser
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+
+IP                   : 182.3.68.209
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : 
+Browser              : Unknown Browser
+Location             : Palembang, Indonesia, Asia
+GeoLocation(lat, lon): -2.9760735, 104.7754307
+Currency             : Indonesian Rupiah
+IP                   : 36.74.40.112
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : 
+Browser              : Unknown Browser
+Location             : Kota Garut, Indonesia, Asia
+GeoLocation(lat, lon): -7.227906, 107.908699
+Currency             : Indonesian Rupiah
+
+IP                   : 180.243.13.176
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : 
+Browser              : Unknown Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 182.2.38.62
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : 
+Browser              : Unknown Browser
+Location             : Semarang, Indonesia, Asia
+GeoLocation(lat, lon): -7.0051453, 110.4381254
+Currency             : Indonesian Rupiah
+
+IP                   : 182.2.38.62
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : 
+Browser              : Unknown Browser
+Location             : Semarang, Indonesia, Asia
+GeoLocation(lat, lon): -7.0051453, 110.4381254
+Currency             : Indonesian Rupiah
+
+IP                   : 103.171.147.67
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : 
+Browser              : Unknown Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 180.252.85.69
+IP Type              : IPv4
+User OS              : Android
+Version              : 12;
+Browser              : Handheld Browser
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+
+IP                   : 180.243.13.176
+IP Type              : IPv4
+User OS              : Android
+Version              : 11;
+Browser              : Handheld Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 180.243.13.176
+IP Type              : IPv4
+User OS              : Android
+Version              : 11;
+Browser              : Handheld Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 120.188.4.109
+IP Type              : IPv4
+User OS              : Android
+Version              : 5.1;
+Browser              : Handheld Browser
+Location             : Gunung Putri, Indonesia, Asia
+GeoLocation(lat, lon): -6.4288646, 106.9240554
+Currency             : Indonesian Rupiah
+
+IP                   : 120.188.4.109
+IP Type              : IPv4
+User OS              : Android
+Version              : 5.1;
+Browser              : Handheld Browser
+Location             : Gunung Putri, Indonesia, Asia
+GeoLocation(lat, lon): -6.4288646, 106.9240554
+Currency             : Indonesian Rupiah
+
+IP                   : 120.188.4.109
+IP Type              : IPv4
+User OS              : Android
+Version              : 5.1;
+Browser              : Handheld Browser
+Location             : Gunung Putri, Indonesia, Asia
+GeoLocation(lat, lon): -6.4288646, 106.9240554
+Currency             : Indonesian Rupiah
+
+IP                   : 180.243.13.176
+IP Type              : IPv4
+User OS              : Android
+Version              : 11;
+Browser              : Handheld Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 180.243.13.176
+IP Type              : IPv4
+User OS              : Android
+Version              : 11;
+Browser              : Handheld Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 180.243.13.176
+IP Type              : IPv4
+User OS              : Android
+Version              : 11;
+Browser              : Handheld Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 180.243.13.176
+IP Type              : IPv4
+User OS              : Android
+Version              : 11;
+Browser              : Handheld Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 180.243.13.176
+IP Type              : IPv4
+User OS              : Android
+Version              : 11;
+Browser              : Handheld Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 180.243.13.176
+IP Type              : IPv4
+User OS              : Android
+Version              : 11;
+Browser              : Handheld Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 180.243.13.176
+IP Type              : IPv4
+User OS              : Android
+Version              : 11;
+Browser              : Handheld Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 180.243.13.176
+IP Type              : IPv4
+User OS              : Android
+Version              : 11;
+Browser              : Handheld Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 2001:448a:20a3:77e3:5836:533e:86cd:175e
+IP Type              : IPv6
+User OS              : Android
+Version              : Android
+Browser              : Handheld Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 103.106.219.127
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : 
+Browser              : Unknown Browser
+Location             : Sengon, Indonesia, Asia
+GeoLocation(lat, lon): -7.5532583, 112.2249891
+Currency             : Indonesian Rupiah
+IP                   : 13.209.235.54
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : 
+Browser              : Unknown Browser
+Location             : Seoul, Republic of Korea, Asia
+GeoLocation(lat, lon): 37.566535, 126.9779692
+Currency             : South Korean Won
+IP                   : 140.213.130.210
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : 
+Browser              : Unknown Browser
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+
+IP                   : 114.125.78.31
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : 
+Browser              : Unknown Browser
+Location             : Bukit Lawang, Indonesia, Asia
+GeoLocation(lat, lon): 3.5552618, 98.1447804
+Currency             : Indonesian Rupiah
+
+IP                   : 114.125.78.31
+IP Type              : IPv4
+User OS              : Android
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Bukit Lawang, Indonesia, Asia
+GeoLocation(lat, lon): 3.5552618, 98.1447804
+Currency             : Indonesian Rupiah
+
+IP                   : 110.50.81.199
+IP Type              : IPv4
+User OS              : Android
+Version              : 9;
+Browser              : Handheld Browser
+Location             : Bandung, Indonesia, Asia
+GeoLocation(lat, lon): -6.9174639, 107.6191228
+Currency             : Indonesian Rupiah
+
+IP                   : 140.213.130.210
+IP Type              : IPv4
+User OS              : Android
+Version              : 11;
+Browser              : Handheld Browser
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+
+IP                   : 180.243.5.56
+IP Type              : IPv4
+User OS              : Android
+Version              : 11;
+Browser              : Handheld Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 13.125.154.164
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : 
+Browser              : Unknown Browser
+Location             : Seoul, Republic of Korea, Asia
+GeoLocation(lat, lon): 37.566535, 126.9779692
+Currency             : South Korean Won
+IP                   : 180.243.5.56
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : 
+Browser              : Unknown Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 116.206.36.34
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : 
+Browser              : Unknown Browser
+Location             : Pekanbaru, Indonesia, Asia
+GeoLocation(lat, lon): 0.5070677, 101.4477793
+Currency             : Indonesian Rupiah
+IP                   : 103.47.135.160
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : 
+Browser              : Unknown Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 114.122.105.170
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : 
+Browser              : Unknown Browser
+Location             : Warudoyong, Indonesia, Asia
+GeoLocation(lat, lon): -6.9324984, 106.9233176
+Currency             : Indonesian Rupiah
+
+IP                   : 180.252.165.40
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : 
+Browser              : Unknown Browser
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+
+IP                   : 114.122.105.170
+IP Type              : IPv4
+User OS              : Android
+Version              : 12;
+Browser              : Handheld Browser
+Location             : Warudoyong, Indonesia, Asia
+GeoLocation(lat, lon): -6.9324984, 106.9233176
+Currency             : Indonesian Rupiah
+
+IP                   : 180.243.5.56
+IP Type              : IPv4
+User OS              : Android
+Version              : 11;
+Browser              : Handheld Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 114.79.2.28
+IP Type              : IPv4
+User OS              : Android
+Version              : 8.1.0;
+Browser              : Handheld Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 13.209.235.54
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : 
+Browser              : Unknown Browser
+Location             : Seoul, Republic of Korea, Asia
+GeoLocation(lat, lon): 37.566535, 126.9779692
+Currency             : South Korean Won
+
+IP                   : 103.106.219.127
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : 
+Browser              : Unknown Browser
+Location             : Sengon, Indonesia, Asia
+GeoLocation(lat, lon): -7.5532583, 112.2249891
+Currency             : Indonesian Rupiah
+IP                   : 180.243.5.56
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : 
+Browser              : Unknown Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 125.162.9.137
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : 
+Browser              : Unknown Browser
+Location             : Medan, Indonesia, Asia
+GeoLocation(lat, lon): 3.5951956, 98.6722227
+Currency             : Indonesian Rupiah
+
+IP                   : 125.162.9.137
+IP Type              : IPv4
+User OS              : Android
+Version              : 12;
+Browser              : Handheld Browser
+Location             : Medan, Indonesia, Asia
+GeoLocation(lat, lon): 3.5951956, 98.6722227
+Currency             : Indonesian Rupiah
+
+IP                   : 1.46.139.212
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : 
+Browser              : Unknown Browser
+Location             : Bangkok, Thailand, Asia
+GeoLocation(lat, lon): 13.7563309, 100.5017651
+Currency             : Thai Baht
+
+IP                   : 114.124.131.26
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : 
+Browser              : Unknown Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 36.74.40.76
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : 
+Browser              : Unknown Browser
+Location             : Pamanukan, Indonesia, Asia
+GeoLocation(lat, lon): -6.2957395, 107.8228459
+Currency             : Indonesian Rupiah
+
+IP                   : 36.71.138.117
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+Version              : 
+Browser              : Unknown Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+IP                   : 13.125.154.164
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : PostmanRuntime/7.25.0
+Version              : 
+Browser              : Unknown Browser
+Location             : Seoul, Republic of Korea, Asia
+GeoLocation(lat, lon): 37.566535, 126.9779692
+Currency             : South Korean Won
+
+IP                   : 180.243.5.56
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+Version              : 
+Browser              : Unknown Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+IP                   : 36.71.138.117
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : Mozilla
+Version              : 
+Browser              : Unknown Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 180.243.5.56
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : Mozilla
+Version              : 
+Browser              : Unknown Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+IP                   : 36.71.138.117
+IP Type              : IPv4
+User OS              : Linux
+User Agent           : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36
+Version              : x86_64
+Browser              : Chrome
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 180.243.5.56
+IP Type              : IPv4
+User OS              : Linux
+User Agent           : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36
+Version              : x86_64
+Browser              : Chrome
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+IP                   : 36.71.138.117
+IP Type              : IPv4
+User OS              : Mac OS X
+User Agent           : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+Version              : Mac
+Browser              : Chrome
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 180.243.5.56
+IP Type              : IPv4
+User OS              : Mac OS X
+User Agent           : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+Version              : Mac
+Browser              : Chrome
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+IP                   : 36.71.138.117
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : WhatsApp/2.19.81 A
+Version              : 
+Browser              : Unknown Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 36.72.135.144
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+Version              : 
+Browser              : Unknown Browser
+Location             : Majalengka, Indonesia, Asia
+GeoLocation(lat, lon): -6.8364221, 108.2274234
+Currency             : Indonesian Rupiah
+IP                   : 180.243.5.56
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : WhatsApp/2.19.81 A
+Version              : 
+Browser              : Unknown Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 36.71.138.117
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookexternalhit/1.1
+Version              : 
+Browser              : Unknown Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+IP                   : 36.72.135.144
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : Mozilla
+Version              : 
+Browser              : Unknown Browser
+Location             : Majalengka, Indonesia, Asia
+GeoLocation(lat, lon): -6.8364221, 108.2274234
+Currency             : Indonesian Rupiah
+
+IP                   : 180.243.5.56
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookexternalhit/1.1
+Version              : 
+Browser              : Unknown Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+IP                   : 180.252.88.121
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+Version              : 
+Browser              : Unknown Browser
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+
+IP                   : 36.71.138.117
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookcatalog/1.0
+Version              : 
+Browser              : Unknown Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+IP                   : 36.72.135.144
+IP Type              : IPv4
+User OS              : Linux
+User Agent           : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36
+Version              : x86_64
+Browser              : Chrome
+Location             : Majalengka, Indonesia, Asia
+GeoLocation(lat, lon): -6.8364221, 108.2274234
+Currency             : Indonesian Rupiah
+
+IP                   : 180.243.5.56
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookcatalog/1.0
+Version              : 
+Browser              : Unknown Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+IP                   : 180.252.88.121
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : Mozilla
+Version              : 
+Browser              : Unknown Browser
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+
+IP                   : 180.252.88.121
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 12; SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Mobile Safari/537.36
+Version              : 12;
+Browser              : Handheld Browser
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+
+IP                   : 36.72.135.144
+IP Type              : IPv4
+User OS              : Mac OS X
+User Agent           : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+Version              : Mac
+Browser              : Chrome
+Location             : Majalengka, Indonesia, Asia
+GeoLocation(lat, lon): -6.8364221, 108.2274234
+Currency             : Indonesian Rupiah
+IP                   : 180.243.5.56
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 11; M2007J20CG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36
+Version              : 11;
+Browser              : Handheld Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 180.252.88.121
+IP Type              : IPv4
+User OS              : Linux
+User Agent           : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36
+Version              : x86_64
+Browser              : Chrome
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+
+IP                   : 36.72.135.144
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : WhatsApp/2.19.81 A
+Version              : 
+Browser              : Unknown Browser
+Location             : Majalengka, Indonesia, Asia
+GeoLocation(lat, lon): -6.8364221, 108.2274234
+Currency             : Indonesian Rupiah
+
+IP                   : 180.252.88.121
+IP Type              : IPv4
+User OS              : Mac OS X
+User Agent           : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+Version              : Mac
+Browser              : Chrome
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+IP                   : 36.72.135.144
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookexternalhit/1.1
+Version              : 
+Browser              : Unknown Browser
+Location             : Majalengka, Indonesia, Asia
+GeoLocation(lat, lon): -6.8364221, 108.2274234
+Currency             : Indonesian Rupiah
+
+IP                   : 180.252.88.121
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : WhatsApp/2.19.81 A
+Version              : 
+Browser              : Unknown Browser
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+IP                   : 36.72.135.144
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookcatalog/1.0
+Version              : 
+Browser              : Unknown Browser
+Location             : Majalengka, Indonesia, Asia
+GeoLocation(lat, lon): -6.8364221, 108.2274234
+Currency             : Indonesian Rupiah
+
+IP                   : 180.252.88.121
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookexternalhit/1.1
+Version              : 
+Browser              : Unknown Browser
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+IP                   : 180.252.88.121
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookcatalog/1.0
+Version              : 
+Browser              : Unknown Browser
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+
+IP                   : 180.243.5.56
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 11; M2007J20CG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+Version              : 11;
+Browser              : Handheld Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 180.252.88.121
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 12; SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Mobile Safari/537.36
+Version              : 12;
+Browser              : Handheld Browser
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+
+IP                   : 180.252.88.121
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+Version              : 
+Browser              : Unknown Browser
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+
+IP                   : 180.252.88.121
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : Mozilla
+Version              : 
+Browser              : Unknown Browser
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+
+IP                   : 180.252.88.121
+IP Type              : IPv4
+User OS              : Linux
+User Agent           : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36
+Version              : x86_64
+Browser              : Chrome
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+
+IP                   : 180.252.88.121
+IP Type              : IPv4
+User OS              : Mac OS X
+User Agent           : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+Version              : Mac
+Browser              : Chrome
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+IP                   : 180.252.88.121
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : WhatsApp/2.19.81 A
+Version              : 
+Browser              : Unknown Browser
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+
+IP                   : 180.252.88.121
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookexternalhit/1.1
+Version              : 
+Browser              : Unknown Browser
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+
+IP                   : 180.252.88.121
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookcatalog/1.0
+Version              : 
+Browser              : Unknown Browser
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+
+IP                   : 36.71.138.117
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+Version              : 
+Browser              : Unknown Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 180.243.5.56
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+Version              : 
+Browser              : Unknown Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+IP                   : 36.71.138.117
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : Mozilla
+Version              : 
+Browser              : Unknown Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 180.243.5.56
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : Mozilla
+Version              : 
+Browser              : Unknown Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+IP                   : 36.71.138.117
+IP Type              : IPv4
+User OS              : Linux
+User Agent           : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36
+Version              : x86_64
+Browser              : Chrome
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 180.252.88.121
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+Version              : 
+Browser              : Unknown Browser
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+IP                   : 180.243.5.56
+IP Type              : IPv4
+User OS              : Linux
+User Agent           : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36
+Version              : x86_64
+Browser              : Chrome
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 36.71.138.117
+IP Type              : IPv4
+User OS              : Mac OS X
+User Agent           : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+Version              : Mac
+Browser              : Chrome
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+IP                   : 180.252.88.121
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : Mozilla
+Version              : 
+Browser              : Unknown Browser
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+
+IP                   : 180.243.5.56
+IP Type              : IPv4
+User OS              : Mac OS X
+User Agent           : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+Version              : Mac
+Browser              : Chrome
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+IP                   : 36.71.138.117
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : WhatsApp/2.19.81 A
+Version              : 
+Browser              : Unknown Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 180.243.5.56
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : WhatsApp/2.19.81 A
+Version              : 
+Browser              : Unknown Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+IP                   : 180.252.88.121
+IP Type              : IPv4
+User OS              : Linux
+User Agent           : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36
+Version              : x86_64
+Browser              : Chrome
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+
+IP                   : 36.71.138.117
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookexternalhit/1.1
+Version              : 
+Browser              : Unknown Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 180.243.5.56
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookexternalhit/1.1
+Version              : 
+Browser              : Unknown Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+IP                   : 180.252.88.121
+IP Type              : IPv4
+User OS              : Mac OS X
+User Agent           : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+Version              : Mac
+Browser              : Chrome
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+
+IP                   : 36.71.138.117
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookcatalog/1.0
+Version              : 
+Browser              : Unknown Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+IP                   : 180.243.5.56
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookcatalog/1.0
+Version              : 
+Browser              : Unknown Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 180.252.88.121
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : WhatsApp/2.19.81 A
+Version              : 
+Browser              : Unknown Browser
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+
+IP                   : 180.252.88.121
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookexternalhit/1.1
+Version              : 
+Browser              : Unknown Browser
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+
+IP                   : 180.252.88.121
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookcatalog/1.0
+Version              : 
+Browser              : Unknown Browser
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+
+IP                   : 114.125.124.41
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+Version              : 
+Browser              : Unknown Browser
+Location             : Surabaya, Indonesia, Asia
+GeoLocation(lat, lon): -7.2574719, 112.7520883
+Currency             : Indonesian Rupiah
+
+IP                   : 114.125.124.41
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : Mozilla
+Version              : 
+Browser              : Unknown Browser
+Location             : Surabaya, Indonesia, Asia
+GeoLocation(lat, lon): -7.2574719, 112.7520883
+Currency             : Indonesian Rupiah
+IP                   : 114.125.124.41
+IP Type              : IPv4
+User OS              : Linux
+User Agent           : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36
+Version              : x86_64
+Browser              : Chrome
+Location             : Surabaya, Indonesia, Asia
+GeoLocation(lat, lon): -7.2574719, 112.7520883
+Currency             : Indonesian Rupiah
+
+IP                   : 114.125.124.41
+IP Type              : IPv4
+User OS              : Mac OS X
+User Agent           : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+Version              : Mac
+Browser              : Chrome
+Location             : Surabaya, Indonesia, Asia
+GeoLocation(lat, lon): -7.2574719, 112.7520883
+Currency             : Indonesian Rupiah
+
+IP                   : 114.125.124.41
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : WhatsApp/2.19.81 A
+Version              : 
+Browser              : Unknown Browser
+Location             : Surabaya, Indonesia, Asia
+GeoLocation(lat, lon): -7.2574719, 112.7520883
+Currency             : Indonesian Rupiah
+IP                   : 114.125.124.41
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookexternalhit/1.1
+Version              : 
+Browser              : Unknown Browser
+Location             : Surabaya, Indonesia, Asia
+GeoLocation(lat, lon): -7.2574719, 112.7520883
+Currency             : Indonesian Rupiah
+
+IP                   : 114.125.124.41
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookcatalog/1.0
+Version              : 
+Browser              : Unknown Browser
+Location             : Surabaya, Indonesia, Asia
+GeoLocation(lat, lon): -7.2574719, 112.7520883
+Currency             : Indonesian Rupiah
+
+IP                   : 36.71.138.117
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+Version              : 
+Browser              : Unknown Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+IP                   : 114.125.124.41
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+Version              : 
+Browser              : Unknown Browser
+Location             : Surabaya, Indonesia, Asia
+GeoLocation(lat, lon): -7.2574719, 112.7520883
+Currency             : Indonesian Rupiah
+
+IP                   : 36.71.138.117
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : Mozilla
+Version              : 
+Browser              : Unknown Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+IP                   : 114.125.124.41
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : Mozilla
+Version              : 
+Browser              : Unknown Browser
+Location             : Surabaya, Indonesia, Asia
+GeoLocation(lat, lon): -7.2574719, 112.7520883
+Currency             : Indonesian Rupiah
+
+IP                   : 36.71.138.117
+IP Type              : IPv4
+User OS              : Linux
+User Agent           : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36
+Version              : x86_64
+Browser              : Chrome
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 36.71.138.117
+IP Type              : IPv4
+User OS              : Mac OS X
+User Agent           : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+Version              : Mac
+Browser              : Chrome
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 114.125.124.41
+IP Type              : IPv4
+User OS              : Mac OS X
+User Agent           : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+Version              : Mac
+Browser              : Chrome
+Location             : Surabaya, Indonesia, Asia
+GeoLocation(lat, lon): -7.2574719, 112.7520883
+Currency             : Indonesian Rupiah
+IP                   : 36.71.138.117
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : WhatsApp/2.19.81 A
+Version              : 
+Browser              : Unknown Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 114.125.124.41
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : WhatsApp/2.19.81 A
+Version              : 
+Browser              : Unknown Browser
+Location             : Surabaya, Indonesia, Asia
+GeoLocation(lat, lon): -7.2574719, 112.7520883
+Currency             : Indonesian Rupiah
+IP                   : 36.71.138.117
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookexternalhit/1.1
+Version              : 
+Browser              : Unknown Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 114.125.124.41
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookexternalhit/1.1
+Version              : 
+Browser              : Unknown Browser
+Location             : Surabaya, Indonesia, Asia
+GeoLocation(lat, lon): -7.2574719, 112.7520883
+Currency             : Indonesian Rupiah
+IP                   : 36.71.138.117
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookcatalog/1.0
+Version              : 
+Browser              : Unknown Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 114.125.124.41
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookcatalog/1.0
+Version              : 
+Browser              : Unknown Browser
+Location             : Surabaya, Indonesia, Asia
+GeoLocation(lat, lon): -7.2574719, 112.7520883
+Currency             : Indonesian Rupiah
+
+IP                   : 180.252.88.121
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+Version              : 
+Browser              : Unknown Browser
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+
+IP                   : 180.252.88.121
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : Mozilla
+Version              : 
+Browser              : Unknown Browser
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+
+IP                   : 180.252.88.121
+IP Type              : IPv4
+User OS              : Linux
+User Agent           : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36
+Version              : x86_64
+Browser              : Chrome
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+
+IP                   : 180.252.88.121
+IP Type              : IPv4
+User OS              : Mac OS X
+User Agent           : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+Version              : Mac
+Browser              : Chrome
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+
+IP                   : 180.252.88.121
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : WhatsApp/2.19.81 A
+Version              : 
+Browser              : Unknown Browser
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+
+IP                   : 180.252.88.121
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookexternalhit/1.1
+Version              : 
+Browser              : Unknown Browser
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+
+IP                   : 180.252.88.121
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookcatalog/1.0
+Version              : 
+Browser              : Unknown Browser
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+
+IP                   : 180.243.5.56
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+Version              : 
+Browser              : Unknown Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 180.243.5.56
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : Mozilla
+Version              : 
+Browser              : Unknown Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+IP                   : 180.243.5.56
+IP Type              : IPv4
+User OS              : Linux
+User Agent           : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36
+Version              : x86_64
+Browser              : Chrome
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 180.243.5.56
+IP Type              : IPv4
+User OS              : Mac OS X
+User Agent           : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+Version              : Mac
+Browser              : Chrome
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 180.243.5.56
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : WhatsApp/2.19.81 A
+Version              : 
+Browser              : Unknown Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 180.243.5.56
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookexternalhit/1.1
+Version              : 
+Browser              : Unknown Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 180.243.5.56
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookcatalog/1.0
+Version              : 
+Browser              : Unknown Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 114.125.124.41
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+Version              : 
+Browser              : Unknown Browser
+Location             : Surabaya, Indonesia, Asia
+GeoLocation(lat, lon): -7.2574719, 112.7520883
+Currency             : Indonesian Rupiah
+IP                   : 36.71.138.117
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+Version              : 
+Browser              : Unknown Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 114.125.124.41
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : Mozilla
+Version              : 
+Browser              : Unknown Browser
+Location             : Surabaya, Indonesia, Asia
+GeoLocation(lat, lon): -7.2574719, 112.7520883
+Currency             : Indonesian Rupiah
+IP                   : 36.71.138.117
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : Mozilla
+Version              : 
+Browser              : Unknown Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 114.125.124.41
+IP Type              : IPv4
+User OS              : Linux
+User Agent           : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36
+Version              : x86_64
+Browser              : Chrome
+Location             : Surabaya, Indonesia, Asia
+GeoLocation(lat, lon): -7.2574719, 112.7520883
+Currency             : Indonesian Rupiah
+IP                   : 36.71.138.117
+IP Type              : IPv4
+User OS              : Linux
+User Agent           : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36
+Version              : x86_64
+Browser              : Chrome
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 114.125.124.41
+IP Type              : IPv4
+User OS              : Mac OS X
+User Agent           : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+Version              : Mac
+Browser              : Chrome
+Location             : Surabaya, Indonesia, Asia
+GeoLocation(lat, lon): -7.2574719, 112.7520883
+Currency             : Indonesian Rupiah
+IP                   : 36.71.138.117
+IP Type              : IPv4
+User OS              : Mac OS X
+User Agent           : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+Version              : Mac
+Browser              : Chrome
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 114.125.124.41
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : WhatsApp/2.19.81 A
+Version              : 
+Browser              : Unknown Browser
+Location             : Surabaya, Indonesia, Asia
+GeoLocation(lat, lon): -7.2574719, 112.7520883
+Currency             : Indonesian Rupiah
+IP                   : 36.71.138.117
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : WhatsApp/2.19.81 A
+Version              : 
+Browser              : Unknown Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 180.243.5.56
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+Version              : 
+Browser              : Unknown Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 36.71.138.117
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookexternalhit/1.1
+Version              : 
+Browser              : Unknown Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 180.243.5.56
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : Mozilla
+Version              : 
+Browser              : Unknown Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+IP                   : 114.125.124.41
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookcatalog/1.0
+Version              : 
+Browser              : Unknown Browser
+Location             : Surabaya, Indonesia, Asia
+GeoLocation(lat, lon): -7.2574719, 112.7520883
+Currency             : Indonesian Rupiah
+
+IP                   : 36.71.138.117
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookcatalog/1.0
+Version              : 
+Browser              : Unknown Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+IP                   : 180.243.5.56
+IP Type              : IPv4
+User OS              : Linux
+User Agent           : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36
+Version              : x86_64
+Browser              : Chrome
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 180.243.5.56
+IP Type              : IPv4
+User OS              : Mac OS X
+User Agent           : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+Version              : Mac
+Browser              : Chrome
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 180.243.5.56
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : WhatsApp/2.19.81 A
+Version              : 
+Browser              : Unknown Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 180.243.5.56
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookexternalhit/1.1
+Version              : 
+Browser              : Unknown Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+IP                   : 180.243.5.56
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookcatalog/1.0
+Version              : 
+Browser              : Unknown Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 36.71.138.117
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+Version              : 
+Browser              : Unknown Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+IP                   : 114.125.124.41
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+Version              : 
+Browser              : Unknown Browser
+Location             : Surabaya, Indonesia, Asia
+GeoLocation(lat, lon): -7.2574719, 112.7520883
+Currency             : Indonesian Rupiah
+
+IP                   : 36.71.138.117
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : Mozilla
+Version              : 
+Browser              : Unknown Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+IP                   : 114.125.124.41
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : Mozilla
+Version              : 
+Browser              : Unknown Browser
+Location             : Surabaya, Indonesia, Asia
+GeoLocation(lat, lon): -7.2574719, 112.7520883
+Currency             : Indonesian Rupiah
+
+IP                   : 36.71.138.117
+IP Type              : IPv4
+User OS              : Linux
+User Agent           : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36
+Version              : x86_64
+Browser              : Chrome
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+IP                   : 114.125.124.41
+IP Type              : IPv4
+User OS              : Linux
+User Agent           : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36
+Version              : x86_64
+Browser              : Chrome
+Location             : Surabaya, Indonesia, Asia
+GeoLocation(lat, lon): -7.2574719, 112.7520883
+Currency             : Indonesian Rupiah
+
+IP                   : 36.71.138.117
+IP Type              : IPv4
+User OS              : Mac OS X
+User Agent           : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+Version              : Mac
+Browser              : Chrome
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+IP                   : 180.243.5.56
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+Version              : 
+Browser              : Unknown Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 114.125.124.41
+IP Type              : IPv4
+User OS              : Mac OS X
+User Agent           : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+Version              : Mac
+Browser              : Chrome
+Location             : Surabaya, Indonesia, Asia
+GeoLocation(lat, lon): -7.2574719, 112.7520883
+Currency             : Indonesian Rupiah
+IP                   : 36.71.138.117
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : WhatsApp/2.19.81 A
+Version              : 
+Browser              : Unknown Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 180.243.5.56
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : Mozilla
+Version              : 
+Browser              : Unknown Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+IP                   : 114.125.124.41
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : WhatsApp/2.19.81 A
+Version              : 
+Browser              : Unknown Browser
+Location             : Surabaya, Indonesia, Asia
+GeoLocation(lat, lon): -7.2574719, 112.7520883
+Currency             : Indonesian Rupiah
+
+IP                   : 36.71.138.117
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookexternalhit/1.1
+Version              : 
+Browser              : Unknown Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+IP                   : 180.243.5.56
+IP Type              : IPv4
+User OS              : Linux
+User Agent           : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36
+Version              : x86_64
+Browser              : Chrome
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 114.125.124.41
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookexternalhit/1.1
+Version              : 
+Browser              : Unknown Browser
+Location             : Surabaya, Indonesia, Asia
+GeoLocation(lat, lon): -7.2574719, 112.7520883
+Currency             : Indonesian Rupiah
+
+IP                   : 36.71.138.117
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookcatalog/1.0
+Version              : 
+Browser              : Unknown Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+IP                   : 180.243.5.56
+IP Type              : IPv4
+User OS              : Mac OS X
+User Agent           : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+Version              : Mac
+Browser              : Chrome
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 114.125.124.41
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookcatalog/1.0
+Version              : 
+Browser              : Unknown Browser
+Location             : Surabaya, Indonesia, Asia
+GeoLocation(lat, lon): -7.2574719, 112.7520883
+Currency             : Indonesian Rupiah
+IP                   : 180.243.5.56
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : WhatsApp/2.19.81 A
+Version              : 
+Browser              : Unknown Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 180.243.5.56
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookexternalhit/1.1
+Version              : 
+Browser              : Unknown Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 180.243.5.56
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookcatalog/1.0
+Version              : 
+Browser              : Unknown Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 180.252.88.121
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+Version              : 
+Browser              : Unknown Browser
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+
+IP                   : 180.252.88.121
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : Mozilla
+Version              : 
+Browser              : Unknown Browser
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+
+IP                   : 180.252.88.121
+IP Type              : IPv4
+User OS              : Linux
+User Agent           : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36
+Version              : x86_64
+Browser              : Chrome
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+
+IP                   : 180.252.88.121
+IP Type              : IPv4
+User OS              : Mac OS X
+User Agent           : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+Version              : Mac
+Browser              : Chrome
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+IP                   : 180.252.88.121
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : WhatsApp/2.19.81 A
+Version              : 
+Browser              : Unknown Browser
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+
+IP                   : 180.252.88.121
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookexternalhit/1.1
+Version              : 
+Browser              : Unknown Browser
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+
+IP                   : 180.252.88.121
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookcatalog/1.0
+Version              : 
+Browser              : Unknown Browser
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+
+IP                   : 36.73.33.57
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+Version              : 
+Browser              : Unknown Browser
+Location             : Purwokerto, Indonesia, Asia
+GeoLocation(lat, lon): -7.4242782, 109.2396366
+Currency             : Indonesian Rupiah
+IP                   : 36.73.33.57
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : Mozilla
+Version              : 
+Browser              : Unknown Browser
+Location             : Purwokerto, Indonesia, Asia
+GeoLocation(lat, lon): -7.4242782, 109.2396366
+Currency             : Indonesian Rupiah
+
+IP                   : 36.73.33.57
+IP Type              : IPv4
+User OS              : Linux
+User Agent           : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36
+Version              : x86_64
+Browser              : Chrome
+Location             : Purwokerto, Indonesia, Asia
+GeoLocation(lat, lon): -7.4242782, 109.2396366
+Currency             : Indonesian Rupiah
+
+IP                   : 36.73.33.57
+IP Type              : IPv4
+User OS              : Mac OS X
+User Agent           : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+Version              : Mac
+Browser              : Chrome
+Location             : Purwokerto, Indonesia, Asia
+GeoLocation(lat, lon): -7.4242782, 109.2396366
+Currency             : Indonesian Rupiah
+
+IP                   : 36.73.33.57
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : WhatsApp/2.19.81 A
+Version              : 
+Browser              : Unknown Browser
+Location             : Purwokerto, Indonesia, Asia
+GeoLocation(lat, lon): -7.4242782, 109.2396366
+Currency             : Indonesian Rupiah
+IP                   : 36.73.33.57
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookexternalhit/1.1
+Version              : 
+Browser              : Unknown Browser
+Location             : Purwokerto, Indonesia, Asia
+GeoLocation(lat, lon): -7.4242782, 109.2396366
+Currency             : Indonesian Rupiah
+
+IP                   : 36.73.33.57
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookcatalog/1.0
+Version              : 
+Browser              : Unknown Browser
+Location             : Purwokerto, Indonesia, Asia
+GeoLocation(lat, lon): -7.4242782, 109.2396366
+Currency             : Indonesian Rupiah
+
+IP                   : 36.71.138.117
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+Version              : 
+Browser              : Unknown Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 114.125.124.41
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+Version              : 
+Browser              : Unknown Browser
+Location             : Surabaya, Indonesia, Asia
+GeoLocation(lat, lon): -7.2574719, 112.7520883
+Currency             : Indonesian Rupiah
+IP                   : 36.71.138.117
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : Mozilla
+Version              : 
+Browser              : Unknown Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 114.125.124.41
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : Mozilla
+Version              : 
+Browser              : Unknown Browser
+Location             : Surabaya, Indonesia, Asia
+GeoLocation(lat, lon): -7.2574719, 112.7520883
+Currency             : Indonesian Rupiah
+IP                   : 180.252.88.121
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+Version              : 
+Browser              : Unknown Browser
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+
+IP                   : 36.71.138.117
+IP Type              : IPv4
+User OS              : Linux
+User Agent           : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36
+Version              : x86_64
+Browser              : Chrome
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+IP                   : 114.125.124.41
+IP Type              : IPv4
+User OS              : Linux
+User Agent           : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36
+Version              : x86_64
+Browser              : Chrome
+Location             : Surabaya, Indonesia, Asia
+GeoLocation(lat, lon): -7.2574719, 112.7520883
+Currency             : Indonesian Rupiah
+
+IP                   : 180.252.88.121
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : Mozilla
+Version              : 
+Browser              : Unknown Browser
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+IP                   : 36.71.138.117
+IP Type              : IPv4
+User OS              : Mac OS X
+User Agent           : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+Version              : Mac
+Browser              : Chrome
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 114.125.124.41
+IP Type              : IPv4
+User OS              : Mac OS X
+User Agent           : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+Version              : Mac
+Browser              : Chrome
+Location             : Surabaya, Indonesia, Asia
+GeoLocation(lat, lon): -7.2574719, 112.7520883
+Currency             : Indonesian Rupiah
+IP                   : 180.252.88.121
+IP Type              : IPv4
+User OS              : Linux
+User Agent           : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36
+Version              : x86_64
+Browser              : Chrome
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+
+IP                   : 36.71.138.117
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : WhatsApp/2.19.81 A
+Version              : 
+Browser              : Unknown Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+IP                   : 36.73.33.57
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+Version              : 
+Browser              : Unknown Browser
+Location             : Purwokerto, Indonesia, Asia
+GeoLocation(lat, lon): -7.4242782, 109.2396366
+Currency             : Indonesian Rupiah
+
+IP                   : 114.125.124.41
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : WhatsApp/2.19.81 A
+Version              : 
+Browser              : Unknown Browser
+Location             : Surabaya, Indonesia, Asia
+GeoLocation(lat, lon): -7.2574719, 112.7520883
+Currency             : Indonesian Rupiah
+IP                   : 180.252.88.121
+IP Type              : IPv4
+User OS              : Mac OS X
+User Agent           : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+Version              : Mac
+Browser              : Chrome
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+
+IP                   : 36.71.138.117
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookexternalhit/1.1
+Version              : 
+Browser              : Unknown Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+IP                   : 36.73.33.57
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : Mozilla
+Version              : 
+Browser              : Unknown Browser
+Location             : Purwokerto, Indonesia, Asia
+GeoLocation(lat, lon): -7.4242782, 109.2396366
+Currency             : Indonesian Rupiah
+
